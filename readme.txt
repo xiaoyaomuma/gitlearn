@@ -1,2 +1,2 @@
 test
-test & test
+test AND test
